@@ -1,0 +1,30 @@
+RecordYT is a script which records Viewcount and Title and Date Released which can be later used to track the performance of a Youtube Video. The Script RecordYT can work without other files in the repository but it is recommended to atleast have slnrecord.txt and have the digit 0 in it and nothing else(no other characters).Currently the Script PlotData plots a simple graph of viewcount vs time. Figure_1.png shows the increase in viewcount in an time of about 6 hours. 
+
+As an example, i ran the tests on recently released trailer of Dil Bechara(https://www.youtube.com/watch?v=GODAlxW5Pes) and the data hence collected in available in csv and txt in the repository. 
+
+
+Warnings:
+ The graph is not scaled properly.
+ x-axis labels are improper in Figure_1.png
+ If you keep the script running in background for a long time it may be suspended(Tab Discarding) or behave  in undefined manner due to latest  implementation to save power,memory  and   computation by both  browsers  and Windows10. 
+ Learn about Tab Discarding here --> https://developers.google.com/web/updates/2015/09/tab-discarding
+
+
+
+
+
+There are many optimizations to be made and many features need to be improved and many features to be added. I am particularly interested in making it a Web-based service and also making an Android Application out of it. Interested people may contact.
+
+This was done in just 06 hours and mainly for entertainment purpose and to do a kind-of-project on what I have recently learnt on Matplotlib and Selenium webDriver.
+
+
+Hope You will like it ;)
+
+
+
+
+
+My other project : https://github.com/samratpodder/MakautWeeklyActivityFillFormAutomated
+
+
+Contact : iamsamrat16@outlook.com
